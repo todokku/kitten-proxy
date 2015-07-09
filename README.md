@@ -22,7 +22,8 @@ This is still a very early version, but it should works fine.
         try_files $uri $uri/ /index.php?$args;
     }
 ```
-3. Access it
+
+That's all. Access it from your browser to use the proxy.
 
 ### Configuration
 
