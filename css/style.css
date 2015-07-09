@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+body, input, button, a {
+    font-family: Lato, Arial;
+    font-size: 1em;
+}
+body {
+    background-color: #f7f7f7;
+}
+input[type="text"] {
+    padding: 5px;
+}
+input[type="submit"] {
+    padding: 5px;
+}
+
+input[name="url"] {
+    width: 400px;
+}
+
+#container {
+    text-align: center; margin-top: 6%;
+}
+#logo {
+    margin-bottom: 10px;
+}
+#logo img {
+    padding: 5px;
+    border: 1px solid #CCC;
+}
